@@ -42,7 +42,7 @@ li {
   display: grid;
 }
 
-#menus {
+.menus {
   background-color: white;
   border-radius: 15px;
   box-shadow: 4px 4px 15px 2px rgb(0 0 0 / 0.1);
